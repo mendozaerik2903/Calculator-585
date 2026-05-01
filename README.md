@@ -1,17 +1,13 @@
 # windows_calculator_project
 
-A new Flutter project.
+This project was assigned for "Comp 585: Graphical User Interfaces" to recreate the Windows calculator app using Flutter.
 
-## Getting Started
+Below are embedded screenshots of the Flutter application.
 
-This project is a starting point for a Flutter application.
+<img width="391" height="791" alt="screenshot1" src="https://github.com/user-attachments/assets/5594df98-7919-4564-8b5a-a0bd467d94f4" />
 
-A few resources to get you started if this is your first Flutter project:
+<img width="392" height="790" alt="screenshot2" src="https://github.com/user-attachments/assets/2f6a20dd-ebc6-4fdb-b9dc-e9cbf79bd7e9" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img width="389" height="790" alt="screenshot3" src="https://github.com/user-attachments/assets/14170e95-4bc0-4904-9ab6-68f593edbb18" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# Calculator-585" 
+<img width="393" height="791" alt="screenshot4" src="https://github.com/user-attachments/assets/e4fe8aad-3d9c-4d14-9256-8c93e54bed35" />
